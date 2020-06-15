@@ -7,5 +7,5 @@ How to add custom emojis to...
 * Invision forums: https://invisioncommunity.com/4guides/themes-and-customizations/editor-and-emoticons_327/managing-emoticons-r136/
 
 ## Sourcing
-* Emoji were designed by: [coming soon]
+* Emoji were designed by: Cait Cayne
 * Flag backgrounds were sourced from Wikipedia: https://en.wikipedia.org/wiki/LGBT_symbols
