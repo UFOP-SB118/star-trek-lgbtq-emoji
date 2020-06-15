@@ -1,3 +1,5 @@
+<img src="lgbtq-emoji-header.png" width=100%>
+
 # star-trek-lgbtq-emoji
 Star Trek-themed LGBTQ emoji for use on Discord and other communication tools. 
 
