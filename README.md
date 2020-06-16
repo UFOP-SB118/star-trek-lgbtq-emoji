@@ -9,5 +9,5 @@ How to add custom emojis to...
 * Invision forums: https://invisioncommunity.com/4guides/themes-and-customizations/editor-and-emoticons_327/managing-emoticons-r136/
 
 ## Sourcing
-* Emoji were designed by: Cait Cayne
+* Emoji were designed by: Cait Cayne for [UFOP: StarBase 118 Star Trek PBEM RPG](https://www.starbase118.net)
 * Flag backgrounds were sourced from Wikipedia: https://en.wikipedia.org/wiki/LGBT_symbols
